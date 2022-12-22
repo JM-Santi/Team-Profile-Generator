@@ -15,6 +15,7 @@
  - npm install on the root directory
  
  ## Usage
+<img width="1383" alt="Screenshot 2022-12-21 at 9 44 21 PM" src="https://user-images.githubusercontent.com/113136342/209044186-7e3d003c-6623-4621-81e7-1cb9df81a4a2.png">
 
  
 
